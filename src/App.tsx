@@ -21,8 +21,8 @@ function deleteTodo(id: string) {
   }
   return (
     <main>
-      <h1>Welcome {//user.username}</h1>
-      <h1>{//user?.signInDetails?.loginId}'s todos</h1>
+      <h1>Welcome h1>
+
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (

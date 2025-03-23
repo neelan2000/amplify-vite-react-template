@@ -19,7 +19,7 @@ export type Schema = ClientSchema<typeof schema>;
 
 export const data = defineData({
   schema,
- ,authorizationModes: {
+  authorizationModes: {
     defaultAuthorizationMode: 'userPool',
   },
 /*  authorizationModes: {

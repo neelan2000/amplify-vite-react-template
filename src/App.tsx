@@ -21,7 +21,7 @@ function deleteTodo(id: string) {
   }
   return (
     <main>
-      <h1>Welcome h1>
+      <h1>Welcome </h1>
 
       <button onClick={createTodo}>+ new</button>
       <ul>

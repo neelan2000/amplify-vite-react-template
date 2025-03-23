@@ -38,7 +38,7 @@ function deleteTodo(id: string) {
           Review next step of this tutorial. delete tutorial
         </a>
       </div>
-      <button onClick={//signOut}>Sign out</button>
+      
     </main>
   );
 }

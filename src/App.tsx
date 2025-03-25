@@ -22,7 +22,7 @@ function deleteTodo(id: string) {
   return (
     <main>
       <h1>Welcome.... </h1>
-      <h1>Welcome {user.email}</h1>
+      <h1>Welcome {user.preferredUsername}</h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (

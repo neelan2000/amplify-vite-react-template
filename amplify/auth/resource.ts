@@ -21,5 +21,5 @@ export const auth = referenceAuth({
   identityPoolId: 'us-east-1:6a271046-6577-48b9-893a-f78379efa592',
   authRoleArn: 'arn:aws:cognito-identity:us-east-1:881490115999:identitypool/us-east-1:6a271046-6577-48b9-893a-f78379efa592',
   unauthRoleArn: 'arn:aws:cognito-identity:us-east-1:881490115999:identitypool/us-east-1:6a271046-6577-48b9-893a-f78379efa592',
-  userPoolClientId:'ftg98iecdtq9773kmeq11stg4,
+  userPoolClientId: 'ftg98iecdtq9773kmeq11stg4',
 });
